@@ -1,9 +1,9 @@
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: Trebuchet MS, Calibri Light, Cambria, Arial, sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: #b3b3b3;
+  color: #808080;
   background: #fff;
 }
 
@@ -18,9 +18,9 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, h7 {
   color: #000;
-  font-family: "Playfair Display", times, serif;
+  font-family:  Ubuntu, Trebuchet MS, Calibri Light, Cambria, Arial, sans-serif;
 }
 
 .btn, .form-control {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5 {
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
   height: 50px;
-  border-width: 2px;
+  border-width: 1px;
 }
 
 textarea.form-control {
@@ -57,8 +57,8 @@ textarea.form-control {
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  border-color: #99ccff;
-  background: #99ccff;
+  border-color: #6699ff;
+  background: #6699ff;
 }
 
 .btn.btn-sm {
@@ -67,7 +67,7 @@ textarea.form-control {
 
 .btn.btn-outline-primary {
   border-width: 2px;
-  color: #99ccff;
+  color: #6699ff;
 }
 
 .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
@@ -115,7 +115,7 @@ header .navbar-brand.absolute {
 }
 
 header .navbar-brand span {
-  color: #99ccff;
+  color: #6699ff;
 }
 
 header .navbar {
@@ -181,12 +181,12 @@ header .navbar .dropdown-menu:before {
 }
 
 header .navbar .dropdown-menu .dropdown-item:hover {
-  background: #99ccff;
+  background: #6699ff;
   color: #fff;
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-  background: #99ccff;
+  background: #6699ff;
   color: #fff;
 }
 
@@ -196,7 +196,7 @@ header .navbar .dropdown-menu a {
 }
 
 header .navbar .cta-btn a {
-  background: #99ccff;
+  background: #6699ff;
   color: #fff !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
@@ -291,7 +291,7 @@ body.offcanvas-open .site-wrap {
 }
 
 .offcanvas_menu ul li.active a {
-  color: #99ccff;
+  color: #6699ff;
 }
 
 .offcanvas_menu ul.social li {
@@ -346,7 +346,7 @@ main {
 
 .home-button {
   top: 20px;
-  color: #99ccff;
+  color: #6699ff;
   font-size: 20px;
   position: absolute;
 }
@@ -391,7 +391,7 @@ main {
   left: 0;
   bottom: 0;
   right: 0;
-  background: #99ccff;
+  background: #6699ff;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -497,7 +497,7 @@ main {
 }
 
 .site-subscribe {
-  background: #99ccff;
+  background: #6699ff;
   padding: 2em 0;
 }
 
@@ -522,7 +522,7 @@ main {
 .event-list-item .date {
   border-right: 1px solid #ccc;
   text-transform: uppercase;
-  color: #b3b3b3;
+  color: #808080;
 }
 
 .event-list-item .more {
@@ -660,7 +660,7 @@ main {
 
 .custom-media .icon span {
   font-size: 70px;
-  color: #99ccff;
+  color: #6699ff;
 }
 
 .custom-media h3 {
@@ -692,7 +692,7 @@ main {
 
 .custom-icon {
   font-size: 70px;
-  color: #99ccff;
+  color: #6699ff;
 }
 
 /* Owl Carousel */
@@ -982,7 +982,7 @@ main {
   position: relative;
   width: 0px;
   font-size: 30px;
-  color: #99ccff;
+  color: #6699ff;
 }
 
 .load-more {
@@ -995,7 +995,7 @@ main {
 }
 
 .load-more:hover {
-  background: #99ccff;
+  background: #6699ff;
   color: #fff;
 }
 
@@ -1035,7 +1035,7 @@ main {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #99ccff;
+  background: #6699ff;
 }
 
 .text-black {
@@ -1064,7 +1064,7 @@ main {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #99ccff;
+  color: #6699ff;
 }
 
 .media-feature h3 {
@@ -1079,7 +1079,7 @@ main {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #99ccff;
+  border-bottom: 10px solid #6699ff;
 }
 
 .media-custom {
@@ -1184,7 +1184,7 @@ main {
 }
 
 .site-footer a {
-  color: #99ccff;
+  color: #6699ff;
   border-bottom: 1px solid transparent;
 }
 

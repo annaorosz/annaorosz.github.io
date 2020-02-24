@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="change color of Menu">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="updated CV">
+      <change afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnnaOROSZ_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/AnnaOROSZ_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +22,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="21" />
+            <state relative-caret-position="-119">
+              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
               <folding>
                 <element signature="e#1649#1655#0" expanded="true" />
+                <element signature="e#2603#2609#0" expanded="true" />
+                <element signature="e#2609#2615#0" expanded="true" />
+                <element signature="e#2615#2621#0" expanded="true" />
+                <element signature="e#2621#2627#0" expanded="true" />
+                <element signature="e#2627#2633#0" expanded="true" />
+                <element signature="e#2633#2639#0" expanded="true" />
+                <element signature="e#2639#2645#0" expanded="true" />
+                <element signature="e#2645#2651#0" expanded="true" />
+                <element signature="e#2722#2728#0" expanded="true" />
+                <element signature="e#2728#2734#0" expanded="true" />
+                <element signature="e#2734#2740#0" expanded="true" />
+                <element signature="e#2740#2746#0" expanded="true" />
+                <element signature="e#2746#2752#0" expanded="true" />
+                <element signature="e#2752#2758#0" expanded="true" />
+                <element signature="e#2758#2764#0" expanded="true" />
+                <element signature="e#2764#2770#0" expanded="true" />
+                <element signature="e#3832#3838#0" expanded="true" />
+                <element signature="e#3838#3844#0" expanded="true" />
+                <element signature="e#3844#3850#0" expanded="true" />
+                <element signature="e#3850#3856#0" expanded="true" />
+                <element signature="e#3856#3862#0" expanded="true" />
+                <element signature="e#3862#3868#0" expanded="true" />
+                <element signature="e#3868#3874#0" expanded="true" />
+                <element signature="e#3874#3880#0" expanded="true" />
+                <element signature="e#4295#4301#0" expanded="true" />
+                <element signature="e#4301#4307#0" expanded="true" />
+                <element signature="e#4307#4313#0" expanded="true" />
+                <element signature="e#4313#4319#0" expanded="true" />
+                <element signature="e#4319#4325#0" expanded="true" />
+                <element signature="e#4325#4331#0" expanded="true" />
+                <element signature="e#4331#4337#0" expanded="true" />
+                <element signature="e#4337#4343#0" expanded="true" />
+                <element signature="e#4455#4461#0" expanded="true" />
+                <element signature="e#4461#4467#0" expanded="true" />
+                <element signature="e#4467#4473#0" expanded="true" />
+                <element signature="e#4473#4479#0" expanded="true" />
+                <element signature="e#4479#4485#0" expanded="true" />
+                <element signature="e#4485#4491#0" expanded="true" />
+                <element signature="e#4491#4497#0" expanded="true" />
+                <element signature="e#4497#4503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/education.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#1753#1759#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="63" column="16" lean-forward="true" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+              <folding>
+                <element signature="e#1665#1671#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+              <folding>
+                <element signature="e#1647#1653#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,29 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8041">
-              <caret line="473" column="18" selection-start-line="473" selection-start-column="18" selection-end-line="473" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="67" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-              <folding>
-                <element signature="e#1647#1653#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="107">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -69,7 +129,6 @@
       <find>all r</find>
       <find>cont</find>
       <find>F73859</find>
-      <find>color</find>
       <find>#</find>
       <find>#F</find>
       <find>contact</find>
@@ -78,9 +137,15 @@
       <find>000</find>
       <find>menu</find>
       <find>div</find>
+      <find>color</find>
+      <find>99ccff</find>
+      <find>66b3ff</find>
+      <find>h5</find>
     </findStrings>
     <replaceStrings>
       <replace>99ccff</replace>
+      <replace>66b3ff</replace>
+      <replace>6699ff</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -89,29 +154,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/owl.carousel.min.css" />
         <option value="$PROJECT_DIR$/logo.htm" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/education.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1448" />
-    <option name="y" value="-89" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,37 +197,23 @@
             <path>
               <item name="annaorosz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="annaorosz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="annaorosz.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="annaorosz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="annaorosz.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="annaorosz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="annaorosz.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="annaorosz.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anna Orosz\PycharmProjects\annaorosz.github.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,9 +231,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1448" y="-89" width="1456" height="876" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1766342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19781078" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -191,7 +243,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.4608108" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3262032" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
@@ -211,16 +263,10 @@
     <MESSAGE value="changed the title" />
     <MESSAGE value="uploaded the updated CV" />
     <MESSAGE value="change color of Menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="change color of Menu" />
+    <MESSAGE value="updated CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated CV" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -262,36 +308,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+          <folding>
+            <element signature="e#1647#1653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="21" />
+        <state relative-caret-position="-119">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding>
             <element signature="e#1649#1655#0" expanded="true" />
+            <element signature="e#2603#2609#0" expanded="true" />
+            <element signature="e#2609#2615#0" expanded="true" />
+            <element signature="e#2615#2621#0" expanded="true" />
+            <element signature="e#2621#2627#0" expanded="true" />
+            <element signature="e#2627#2633#0" expanded="true" />
+            <element signature="e#2633#2639#0" expanded="true" />
+            <element signature="e#2639#2645#0" expanded="true" />
+            <element signature="e#2645#2651#0" expanded="true" />
+            <element signature="e#2722#2728#0" expanded="true" />
+            <element signature="e#2728#2734#0" expanded="true" />
+            <element signature="e#2734#2740#0" expanded="true" />
+            <element signature="e#2740#2746#0" expanded="true" />
+            <element signature="e#2746#2752#0" expanded="true" />
+            <element signature="e#2752#2758#0" expanded="true" />
+            <element signature="e#2758#2764#0" expanded="true" />
+            <element signature="e#2764#2770#0" expanded="true" />
+            <element signature="e#3832#3838#0" expanded="true" />
+            <element signature="e#3838#3844#0" expanded="true" />
+            <element signature="e#3844#3850#0" expanded="true" />
+            <element signature="e#3850#3856#0" expanded="true" />
+            <element signature="e#3856#3862#0" expanded="true" />
+            <element signature="e#3862#3868#0" expanded="true" />
+            <element signature="e#3868#3874#0" expanded="true" />
+            <element signature="e#3874#3880#0" expanded="true" />
+            <element signature="e#4295#4301#0" expanded="true" />
+            <element signature="e#4301#4307#0" expanded="true" />
+            <element signature="e#4307#4313#0" expanded="true" />
+            <element signature="e#4313#4319#0" expanded="true" />
+            <element signature="e#4319#4325#0" expanded="true" />
+            <element signature="e#4325#4331#0" expanded="true" />
+            <element signature="e#4331#4337#0" expanded="true" />
+            <element signature="e#4337#4343#0" expanded="true" />
+            <element signature="e#4455#4461#0" expanded="true" />
+            <element signature="e#4461#4467#0" expanded="true" />
+            <element signature="e#4467#4473#0" expanded="true" />
+            <element signature="e#4473#4479#0" expanded="true" />
+            <element signature="e#4479#4485#0" expanded="true" />
+            <element signature="e#4485#4491#0" expanded="true" />
+            <element signature="e#4491#4497#0" expanded="true" />
+            <element signature="e#4497#4503#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8041">
-          <caret line="473" column="18" selection-start-line="473" selection-start-column="18" selection-end-line="473" selection-end-column="18" />
+        <state relative-caret-position="107">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#1753#1759#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="67" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="129">
+          <caret line="63" column="16" lean-forward="true" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
           <folding>
-            <element signature="e#1647#1653#0" expanded="true" />
+            <element signature="e#1665#1671#0" expanded="true" />
           </folding>
         </state>
       </provider>
