@@ -18,9 +18,14 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h7 {
+h2, h3, h4, h5, h7 {
   color: #000;
-  font-family:  Ubuntu, Trebuchet MS, Calibri Light, Cambria, Arial, sans-serif;
+  font-family:  Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
+}
+
+h1 {
+  color: #000;
+  font-family:  Cambria, Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
 }
 
 .btn, .form-control {
