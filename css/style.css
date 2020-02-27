@@ -350,10 +350,13 @@ main {
 }
 
 .home-button {
-  top: 20px;
-  color: #6699ff;
+  position: fixed;
+  z-index: 89;
+  right: 580px;
+  letter-spacing: .1em;
   font-size: 20px;
-  position: absolute;
+  top: 20px;
+  color: #fff;
 }
 
 @media (min-width: 576px) {
