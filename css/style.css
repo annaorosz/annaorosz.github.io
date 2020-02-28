@@ -25,7 +25,7 @@ h2, h3, h4, h5, h7 {
 
 h1 {
   color: #000;
-  font-family:  Cambria, Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
+  font-family:  Abadi, Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
 }
 
 .btn, .form-control {
@@ -62,8 +62,8 @@ textarea.form-control {
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  border-color: #6699ff;
-  background: #6699ff;
+  border-color: #054957;
+  background: #054957;
 }
 
 .btn.btn-sm {
@@ -72,7 +72,7 @@ textarea.form-control {
 
 .btn.btn-outline-primary {
   border-width: 2px;
-  color: #6699ff;
+  color: #054957;
 }
 
 .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
@@ -120,7 +120,7 @@ header .navbar-brand.absolute {
 }
 
 header .navbar-brand span {
-  color: #6699ff;
+  color: #054957;
 }
 
 header .navbar {
@@ -186,12 +186,12 @@ header .navbar .dropdown-menu:before {
 }
 
 header .navbar .dropdown-menu .dropdown-item:hover {
-  background: #6699ff;
+  background: #054957;
   color: #fff;
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-  background: #6699ff;
+  background: #054957;
   color: #fff;
 }
 
@@ -201,7 +201,7 @@ header .navbar .dropdown-menu a {
 }
 
 header .navbar .cta-btn a {
-  background: #6699ff;
+  background: #054957;
   color: #fff !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
@@ -296,7 +296,7 @@ body.offcanvas-open .site-wrap {
 }
 
 .offcanvas_menu ul li.active a {
-  color: #6699ff;
+  color: #054957;
 }
 
 .offcanvas_menu ul.social li {
@@ -399,7 +399,7 @@ main {
   left: 0;
   bottom: 0;
   right: 0;
-  background: #6699ff;
+  background: #054957;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -505,7 +505,7 @@ main {
 }
 
 .site-subscribe {
-  background: #6699ff;
+  background: #054957;
   padding: 2em 0;
 }
 
@@ -668,7 +668,7 @@ main {
 
 .custom-media .icon span {
   font-size: 70px;
-  color: #6699ff;
+  color: #054957;
 }
 
 .custom-media h3 {
@@ -700,7 +700,7 @@ main {
 
 .custom-icon {
   font-size: 70px;
-  color: #6699ff;
+  color: #054957;
 }
 
 /* Owl Carousel */
@@ -990,7 +990,7 @@ main {
   position: relative;
   width: 0px;
   font-size: 30px;
-  color: #6699ff;
+  color: #054957;
 }
 
 .load-more {
@@ -1003,7 +1003,7 @@ main {
 }
 
 .load-more:hover {
-  background: #6699ff;
+  background: #054957;
   color: #fff;
 }
 
@@ -1043,7 +1043,7 @@ main {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #6699ff;
+  background: #054957;
 }
 
 .text-black {
@@ -1072,7 +1072,7 @@ main {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #6699ff;
+  color: #054957;
 }
 
 .media-feature h3 {
@@ -1087,7 +1087,7 @@ main {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #6699ff;
+  border-bottom: 10px solid #054957;
 }
 
 .media-custom {
@@ -1163,7 +1163,7 @@ main {
 }
 
 .list-unstyled.check li:before {
-  color: #5AC8D8;
+  color: #054957;
   left: 0;
   font-family: "Ionicons";
   content: "\f122";
@@ -1192,7 +1192,7 @@ main {
 }
 
 .site-footer a {
-  color: #6699ff;
+  color: #054957;
   border-bottom: 1px solid transparent;
 }
 
@@ -1459,3 +1459,4 @@ main {
     stroke-dashoffset: -136px;
   }
 }
+
