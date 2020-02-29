@@ -357,7 +357,7 @@ main {
 .home-button {
   position: fixed;
   z-index: 89;
-  right: 580px;
+  right: 650px;
   letter-spacing: .1em;
   font-size: 20px;
   top: 20px;
