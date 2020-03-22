@@ -1,14 +1,12 @@
-var myIndex = 0;
-carousel();
+window.addEventListener("DOMContentLoaded", function (e) {
 
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}
-  x[myIndex-1].style.display = "block";
-  setTimeout(carousel, 9000);
-}
+    var stage = document.getElementById("stage");
+    var fadeComplete = function (e) {
+        stage.appendChild(arr[0]);
+    };
+    var arr = stage.getElementsByTagName("img");
+    for (var i = 0; i < arr.length; i++) {
+        arr[i].addEventListener("animationend", fadeComplete, false);
+    }
+
+}, false);
