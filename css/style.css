@@ -23,6 +23,24 @@ h2, h4, h3, h7 {
   font-family:  Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
 }
 
+h7 {
+  font-size: 16px;
+  color: #000;
+  font-family:  Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
+}
+
+h6 {
+  font-size: 22px;
+  color: #001A5B;
+  font-family: Times New Roman;
+}
+
+h8 {
+  font-size: 22px;
+  color: #9A0000;
+  font-family: Times New Roman;
+}
+
 h5 {
   color: #000;
   font-family:  Courier New, Trebuchet MS, Calibri Light, Arial, sans-serif;
@@ -1539,4 +1557,13 @@ border-radius: 4px;
     to {
         opacity: 0.0;
     }
+}
+
+
+tr.border_bottom td {
+  border-bottom:1pt solid black;
+}
+
+table {
+    border-collapse: collapse;
 }
