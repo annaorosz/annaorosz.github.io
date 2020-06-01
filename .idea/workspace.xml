@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="added mbition job">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="updated the welcome page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <workItem from="1586105792118" duration="1612000" />
       <workItem from="1588620192482" duration="639000" />
       <workItem from="1588940949745" duration="1465000" />
-      <workItem from="1591027698870" duration="3379000" />
+      <workItem from="1591027698870" duration="4081000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -105,14 +105,20 @@
       <option name="project" value="LOCAL" />
       <updated>1591044009426</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated the welcome page">
+      <created>1591045704860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591045704860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated CV" />
     <MESSAGE value="seperated experience and education and added logos" />
     <MESSAGE value="added paragraph" />
     <MESSAGE value="changed icon on every page" />
@@ -137,21 +143,24 @@
     <MESSAGE value="formatted table" />
     <MESSAGE value="added media page" />
     <MESSAGE value="added mbition job" />
-    <option name="LAST_COMMIT_MESSAGE" value="added mbition job" />
+    <MESSAGE value="updated the welcome page" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the welcome page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1591044009258">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1591045704594">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="514" y="122" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591045704594" />
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591044009258" />
     <state x="460" y="270" width="1037" height="733" key="SettingsEditor" timestamp="1591045283770">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="460" y="270" width="1037" height="733" key="SettingsEditor/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591045283770" />
     <state x="2380" y="247" width="1037" height="733" key="SettingsEditor/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1586110898388" />
-    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1591044016948">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1591045712715">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="555" y="312" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591045712715" />
     <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591044016948" />
   </component>
 </project>
