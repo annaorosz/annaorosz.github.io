@@ -1,57 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="updated resume">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="reworded index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>000</find>
-      <find>66b3ff</find>
-      <find>h5</find>
-      <find>offcan</find>
-      <find>offc</find>
-      <find>#6699ff</find>
-      <find>#</find>
-      <find>color:</find>
-      <find>5AC8D8</find>
-      <find>colo</find>
-      <find>99ccff</find>
-      <find>054957</find>
-      <find>color</find>
-      <find>mb</find>
-      <find>pro</find>
-      <find>70</find>
-      <find>prof</find>
-      <find>div</find>
-      <find>aside</find>
-      <find>background</find>
-      <find>menu</find>
-      <find>js</find>
-      <find>mySlides</find>
-      <find>style</find>
-      <find>include</find>
-      <find>slide</find>
-      <find>link</find>
-      <find>home</find>
-      <find>media</find>
-      <find>li</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>99ccff</replace>
-      <replace>66b3ff</replace>
-      <replace>6699ff</replace>
-      <replace>#054957</replace>
-      <replace>054957</replace>
-      <replace>0987a1</replace>
-      <replace>50</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,11 +30,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Anna Orosz\PycharmProjects\annaorosz.github.io" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anna Orosz\PycharmProjects\annaorosz.github.io\logos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anna Orosz\PycharmProjects\annaorosz.github.io" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -90,7 +50,8 @@
       <workItem from="1588620192482" duration="639000" />
       <workItem from="1588940949745" duration="1465000" />
       <workItem from="1591027698870" duration="4913000" />
-      <workItem from="1591051630740" duration="99000" />
+      <workItem from="1591051630740" duration="722000" />
+      <workItem from="1591134006333" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -120,14 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1591046469525</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="reworded index">
+      <created>1591051748359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591051748359</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added paragraph" />
     <MESSAGE value="changed icon on every page" />
     <MESSAGE value="added icons" />
     <MESSAGE value="add links" />
@@ -152,12 +119,14 @@
     <MESSAGE value="added mbition job" />
     <MESSAGE value="updated the welcome page" />
     <MESSAGE value="updated resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated resume" />
+    <MESSAGE value="reworded index" />
+    <option name="LAST_COMMIT_MESSAGE" value="reworded index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1591046469293">
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1591051747973">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="514" y="122" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1591051747973" />
     <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591046469293" />
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591044009258" />
     <state x="460" y="270" width="1037" height="733" key="SettingsEditor" timestamp="1591045283770">
@@ -165,10 +134,10 @@
     </state>
     <state x="460" y="270" width="1037" height="733" key="SettingsEditor/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591045283770" />
     <state x="2380" y="247" width="1037" height="733" key="SettingsEditor/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1586110898388" />
-    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1591051734092">
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1591051752336">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="555" y="312" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1591051734092" />
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1591051752336" />
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591046477001" />
     <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591044016948" />
   </component>
