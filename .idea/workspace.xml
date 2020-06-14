@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="rewrote upenn logo on education page">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="put relevant courses in dropdown menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <workItem from="1591907468865" duration="13329000" />
       <workItem from="1591998502234" duration="2956000" />
       <workItem from="1592076308158" duration="1846000" />
-      <workItem from="1592084846333" duration="5109000" />
+      <workItem from="1592084846333" duration="5890000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -127,14 +125,38 @@
       <option name="project" value="LOCAL" />
       <updated>1592089615595</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="put relevant courses in dropdown menu">
+      <created>1592150188614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592150188614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="put relevant courses in dropdown menu">
+      <created>1592150196414</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592150196414</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="replace CV" />
     <MESSAGE value="&#10;replace CV" />
     <MESSAGE value="&#10;add projects side" />
     <MESSAGE value="update projects" />
@@ -159,7 +181,8 @@
     <MESSAGE value="updated icon" />
     <MESSAGE value="refactored education page" />
     <MESSAGE value="rewrote upenn logo on education page" />
-    <option name="LAST_COMMIT_MESSAGE" value="rewrote upenn logo on education page" />
+    <MESSAGE value="put relevant courses in dropdown menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="put relevant courses in dropdown menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2595" y="356" width="560" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591910298525">
@@ -170,10 +193,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2614" y="403" width="521" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591911272636" />
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1592150188474">
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1592150196308">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1592150188474" />
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1592150196308" />
     <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591949620130" />
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591044009258" />
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog" timestamp="1592149363054">
