@@ -1601,3 +1601,10 @@ table {
   transition: max-height 0.2s ease-out;
   background-color: #F5F5F5;
 }
+
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
