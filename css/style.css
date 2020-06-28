@@ -383,7 +383,7 @@ main {
 .home-button {
   position: fixed;
   z-index: 89;
-  right: 600px;
+  left: 20px;
   letter-spacing: .1em;
   font-size: 20px;
   top: 20px;
