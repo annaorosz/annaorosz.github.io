@@ -1590,6 +1590,10 @@ table {
     border-collapse: collapse;
 }
 
+tr.bottom-spacing-table-row {
+  height: 20px;
+}
+
 .collapsible {
   background-color: #DCDCDC;
   color: black;
@@ -1623,3 +1627,4 @@ table {
 .alignright {
   float: right;
 }
+
