@@ -277,6 +277,7 @@ body.offcanvas-open .site-wrap {
   font-size: 20px;
   top: 20px;
   color: #fff;
+  font-weight: bold;
 }
 
 .offcanvas-toggle:hover {
