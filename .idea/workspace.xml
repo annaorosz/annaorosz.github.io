@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update main page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1593387123071" duration="35000" />
       <workItem from="1593465100454" duration="996000" />
       <workItem from="1595402292870" duration="612000" />
-      <workItem from="1599316919131" duration="2842000" />
+      <workItem from="1599316919131" duration="2855000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599322070485</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update main page">
+      <created>1599428814924</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1599428814924</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,11 +278,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2614" y="403" width="521" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591911272636" />
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1599322083541">
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1599428814494">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="390" y="72" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402329158" />
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1599322083541" />
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1599428814494" />
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591044009258" />
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog" timestamp="1592149363054">
       <screen x="0" y="30" width="1920" height="1050" />
