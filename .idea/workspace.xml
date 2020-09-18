@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="updated button">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="remove branding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <workItem from="1600117223607" duration="122000" />
       <workItem from="1600295448764" duration="2402000" />
       <workItem from="1600297947713" duration="1204000" />
-      <workItem from="1600341051330" duration="103000" />
+      <workItem from="1600341051330" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -315,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600298547354</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="remove branding">
+      <created>1600341170381</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1600341170381</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +339,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added pictures" />
     <MESSAGE value="added pictures to projects" />
     <MESSAGE value="added slideshow" />
     <MESSAGE value="added slideshow for every page" />
@@ -360,7 +363,8 @@
     <MESSAGE value="added calendly" />
     <MESSAGE value="updated classes" />
     <MESSAGE value="updated button" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated button" />
+    <MESSAGE value="remove branding" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove branding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2595" y="356" width="560" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591910298525">
@@ -371,21 +375,21 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2614" y="403" width="521" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591911272636" />
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600298547170">
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600341169841">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="390" y="72" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402329158" />
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600298547170" />
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600341169841" />
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600297812319" />
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog" timestamp="1592149363054">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592149363054" />
-    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600298551555">
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600341176726">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402337005" />
-    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600298551555" />
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600341176726" />
     <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600297816548" />
     <state x="675" y="454" width="457" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592149342130">
       <screen x="0" y="30" width="1920" height="1050" />
