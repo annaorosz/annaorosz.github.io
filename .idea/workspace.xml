@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="updated email">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="new cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
       <workItem from="1600297947713" duration="1204000" />
       <workItem from="1600341051330" duration="857000" />
       <workItem from="1600432923929" duration="764000" />
+      <workItem from="1600627657232" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600433837534</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="new cv">
+      <created>1600627695974</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1600627695974</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +361,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added slideshow for every page" />
     <MESSAGE value="added table in education" />
     <MESSAGE value="formatted table" />
     <MESSAGE value="added media page" />
@@ -378,33 +385,26 @@
     <MESSAGE value="remove branding" />
     <MESSAGE value="update courses" />
     <MESSAGE value="updated email" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated email" />
+    <MESSAGE value="new cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="new cv" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2595" y="356" width="560" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591910298525">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2595" y="356" width="560" height="401" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591910298525" />
-    <state x="2614" y="403" width="521" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591911272636">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2614" y="403" width="521" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1591911272636" />
-    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600433842837">
+    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600627695590">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="390" y="72" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402329158" />
     <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600341169841" />
-    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600433842837" />
+    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600627695590" />
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog" timestamp="1592149363054">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592149363054" />
-    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600433846457">
+    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600627706067">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402337005" />
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600341176726" />
-    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600433846457" />
+    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600627706067" />
     <state x="675" y="454" width="457" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592149342130">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -417,6 +417,5 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1593384064662" />
-    <state x="623" y="239" key="search.everywhere.popup/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1591921203970" />
   </component>
 </project>
