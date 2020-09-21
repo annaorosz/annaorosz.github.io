@@ -1631,3 +1631,11 @@ tr.bottom-spacing-table-row {
   margin: 0px;
 }
 
+a.morelink {
+  text-decoration:none;
+  outline: none;
+}
+.morecontent span {
+  display: none;
+
+}
