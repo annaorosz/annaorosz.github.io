@@ -1,3 +1,5 @@
+@import "compass/css3";
+
 body {
   font-family: Trebuchet MS, Calibri Light, Cambria, Arial, sans-serif;
   font-weight: 400;
@@ -274,10 +276,31 @@ body.offcanvas-open .site-wrap {
   right: 20px;
   text-transform: uppercase;
   letter-spacing: .1em;
-  font-size: 20px;
+  font-size: 24px;
   top: 20px;
   color: #fff;
   font-weight: bold;
+  cursor: pointer;
+  animation-name: pulse_animation;
+  animation-duration: 5000ms;
+  transform-origin:70% 70%;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes pulse_animation {
+  0% { transform: scale(1); }
+  30% { transform: scale(1); }
+  40% { transform: scale(1.08); }
+  50% { transform: scale(1); }
+  60% { transform: scale(1); }
+  70% { transform: scale(1.05); }
+  80% { transform: scale(1); }
+  100% { transform: scale(1); }
+}
+
+.offcanvas-toggle:hover {
+  -webkit-animation: none;
 }
 
 .offcanvas-toggle:hover {
