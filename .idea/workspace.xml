@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="edited link">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="view cv button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,8 @@
       <workItem from="1600678795671" duration="4869000" />
       <workItem from="1600687535752" duration="1184000" />
       <workItem from="1600692344219" duration="183000" />
-      <workItem from="1600693014317" duration="974000" />
+      <workItem from="1600693014317" duration="1149000" />
+      <workItem from="1600711006583" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -416,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600692516275</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="view cv button">
+      <created>1600694129239</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1600694129240</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated resume" />
     <MESSAGE value="reworded index" />
     <MESSAGE value="updated icon" />
     <MESSAGE value="refactored education page" />
@@ -461,26 +468,27 @@
     <MESSAGE value="adding more... links" />
     <MESSAGE value="added pulse to menu button" />
     <MESSAGE value="edited link" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited link" />
+    <MESSAGE value="view cv button" />
+    <option name="LAST_COMMIT_MESSAGE" value="view cv button" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600692515684">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600694128610">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="390" y="72" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402329158" />
     <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600692515683" />
-    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600688707170" />
+    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600694128610" />
     <state x="2229" y="202" width="1200" height="621" key="DiffContextDialog" timestamp="1600646001094">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592149363054" />
     <state x="2229" y="202" key="DiffContextDialog/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646001094" />
-    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600692520299">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600694140842">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402337005" />
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600692520299" />
-    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600688711413" />
+    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600694140842" />
     <state x="675" y="454" width="457" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592149342130">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>

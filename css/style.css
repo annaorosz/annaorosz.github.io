@@ -290,13 +290,15 @@ body.offcanvas-open .site-wrap {
 
 @keyframes pulse_animation {
   0% { transform: scale(1); }
-  30% { transform: scale(1); }
-  40% { transform: scale(1.08); }
-  50% { transform: scale(1); }
+  5% { transform: scale(1); }
+  15% { transform: scale(1.25); }
+  25% { transform: scale(1); }
+  40% { transform: scale(1); }
+  50% { transform: scale(1.25); }
   60% { transform: scale(1); }
-  70% { transform: scale(1.05); }
-  80% { transform: scale(1); }
-  100% { transform: scale(1); }
+  75% { transform: scale(1); }
+  85% { transform: scale(1.25);}
+  95% { transform: scale(1); }
 }
 
 .offcanvas-toggle:hover {
