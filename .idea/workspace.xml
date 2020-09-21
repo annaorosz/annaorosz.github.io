@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="improving linking">
-      <change afterPath="$PROJECT_DIR$/js/more.js" afterDir="false" />
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="adding more links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +75,7 @@
       <workItem from="1600341051330" duration="857000" />
       <workItem from="1600432923929" duration="764000" />
       <workItem from="1600627657232" duration="4217000" />
-      <workItem from="1600678795671" duration="3517000" />
+      <workItem from="1600678795671" duration="4419000" />
     </task>
     <task id="LOCAL-00001" summary="added mbition job">
       <created>1591043906561</created>
@@ -380,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600645854626</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="adding more links">
+      <created>1600682974374</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1600682974374</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="formatted table" />
     <MESSAGE value="added media page" />
     <MESSAGE value="added mbition job" />
     <MESSAGE value="updated the welcome page" />
@@ -425,25 +429,26 @@
     <MESSAGE value="updated email" />
     <MESSAGE value="new cv" />
     <MESSAGE value="improving linking" />
-    <option name="LAST_COMMIT_MESSAGE" value="improving linking" />
+    <MESSAGE value="adding more links" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding more links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600646002063">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600682974103">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="390" y="72" width="881" height="922" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402329158" />
-    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600633665494" />
+    <state x="514" y="122" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600682974103" />
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646002063" />
     <state x="2229" y="202" width="1200" height="621" key="DiffContextDialog" timestamp="1600646001094">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="309" y="226" width="1200" height="621" key="DiffContextDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592149363054" />
     <state x="2229" y="202" key="DiffContextDialog/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646001094" />
-    <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600645860975">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1600682989099">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1595402337005" />
-    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600633671291" />
+    <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600682989099" />
     <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600645860975" />
     <state x="675" y="454" width="457" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592149342130">
       <screen x="0" y="30" width="1920" height="1050" />
