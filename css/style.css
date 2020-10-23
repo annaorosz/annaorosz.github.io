@@ -1664,3 +1664,8 @@ a.morelink {
   display: none;
 
 }
+
+#container div{
+  display:inline-block;
+  width:130px;
+}
