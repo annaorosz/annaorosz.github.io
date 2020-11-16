@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="new CV">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update media.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,21 +106,9 @@
       <workItem from="1603466687176" duration="1184000" />
       <workItem from="1604429940287" duration="113000" />
       <workItem from="1605487030963" duration="2922000" />
-      <workItem from="1605490371622" duration="13000" />
-    </task>
-    <task id="LOCAL-00007" summary="refactored education page">
-      <created>1591920384572</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1591920384572</updated>
-    </task>
-    <task id="LOCAL-00008" summary="rewrote upenn logo on education page">
-      <created>1591921293454</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1591921293454</updated>
+      <workItem from="1605490371622" duration="40000" />
+      <workItem from="1605490519999" duration="127000" />
+      <workItem from="1605490739736" duration="342000" />
     </task>
     <task id="LOCAL-00009" summary="rewrote upenn logo on education page">
       <created>1591998566608</created>
@@ -450,7 +439,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605490012660</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="update media.html">
+      <created>1605490404143</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1605490404144</updated>
+    </task>
+    <task id="LOCAL-00057" summary="udpate email address">
+      <created>1605490636842</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1605490636842</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,8 +472,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="put relevant courses in dropdown menu" />
-    <MESSAGE value="hello Gabor" />
     <MESSAGE value="sokkal jobb" />
     <MESSAGE value="uj CV" />
     <MESSAGE value="update academics" />
@@ -494,7 +495,9 @@
     <MESSAGE value="added links for locations" />
     <MESSAGE value="new CV" />
     <MESSAGE value="make media page public" />
-    <option name="LAST_COMMIT_MESSAGE" value="make media page public" />
+    <MESSAGE value="update media.html" />
+    <MESSAGE value="udpate email address" />
+    <option name="LAST_COMMIT_MESSAGE" value="udpate email address" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600727047688">
@@ -506,12 +509,12 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2229" y="202" key="DiffContextDialog/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646001094" />
-    <state x="518" y="297" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1605490019479">
+    <state x="518" y="297" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1605490640634">
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1604430043687" />
     <state x="518" y="296" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1603468045354" />
-    <state x="518" y="297" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1605490019478" />
+    <state x="518" y="297" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1605490640634" />
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600711519770" />
     <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600727053068" />
   </component>
