@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update media page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,14 +120,8 @@
       <workItem from="1605838814271" duration="52000" />
       <workItem from="1605910374148" duration="2575000" />
       <workItem from="1605977502546" duration="1023000" />
-      <workItem from="1606083243903" duration="7511000" />
-    </task>
-    <task id="LOCAL-00021" summary="update academics">
-      <created>1599321276561</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1599321276561</updated>
+      <workItem from="1606083243903" duration="7649000" />
+      <workItem from="1606094831017" duration="1387000" />
     </task>
     <task id="LOCAL-00022" summary="update main page">
       <created>1599322070485</created>
@@ -465,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605916590945</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="update media page">
+      <created>1606093998261</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1606093998261</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,17 +522,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2229" y="202" key="DiffContextDialog/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646001094" />
-    <state x="-1365" y="287" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1605916594396">
-      <screen x="-1920" y="23" width="1920" height="980" />
+    <state x="518" y="302" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1606094004058">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1605912464614" />
     <state x="-1365" y="307" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1022@-1920.23.1920.1057" timestamp="1605561481660" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1605916594396" />
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1604430043687" />
+    <state x="518" y="302" key="Vcs.Push.Dialog.v2/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606094004058" />
     <state x="518" y="296" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1603468045354" />
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1605491166333" />
     <state x="518" y="298" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1022@0.23.1792.1022" timestamp="1605838854557" />
     <state x="555" y="312" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@0.30.1920.1050" timestamp="1600711519770" />
     <state x="2475" y="290" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600727053068" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1606095969760">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606095969760" />
   </component>
 </project>
