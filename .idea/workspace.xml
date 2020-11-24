@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="media.html">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="add pics to media.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,21 +129,9 @@
       <workItem from="1606144604347" duration="136000" />
       <workItem from="1606144792209" duration="434000" />
       <workItem from="1606180102494" duration="343000" />
-      <workItem from="1606182404109" duration="830000" />
-    </task>
-    <task id="LOCAL-00032" summary="added calendly">
-      <created>1600296832302</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1600296832302</updated>
-    </task>
-    <task id="LOCAL-00033" summary="updated classes">
-      <created>1600297812559</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1600297812559</updated>
+      <workItem from="1606182404109" duration="925000" />
+      <workItem from="1606183594733" duration="194000" />
+      <workItem from="1606187352670" duration="31000" />
     </task>
     <task id="LOCAL-00034" summary="updated button">
       <created>1600298280241</created>
@@ -474,7 +462,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606180431948</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="add pics to media.html">
+      <created>1606183311883</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1606183311883</updated>
+    </task>
+    <task id="LOCAL-00082" summary="add pics to media.html">
+      <created>1606183329566</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1606183329566</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +495,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="view cv button" />
     <MESSAGE value="new menu button" />
     <MESSAGE value="added links for locations" />
     <MESSAGE value="new CV" />
@@ -518,7 +519,8 @@
     <MESSAGE value="update media.html" />
     <MESSAGE value="add links" />
     <MESSAGE value="media.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="media.html" />
+    <MESSAGE value="add pics to media.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pics to media.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600727047688">
@@ -530,12 +532,13 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2229" y="202" key="DiffContextDialog/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646001094" />
-    <state x="-1365" y="287" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1606180437891">
-      <screen x="-1920" y="23" width="1920" height="980" />
+    <state x="-1365" y="308" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1606183333063">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1605912464614" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606145219681" />
     <state x="-1365" y="307" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1022@-1920.23.1920.1057" timestamp="1605561481660" />
+    <state x="-1365" y="308" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1606183333063" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1606180437891" />
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1604430043687" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606097071562" />
