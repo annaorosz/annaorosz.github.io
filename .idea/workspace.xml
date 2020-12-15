@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="correct projects.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update index.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,14 +131,7 @@
       <workItem from="1606187352670" duration="69000" />
       <workItem from="1606234101612" duration="534000" />
       <workItem from="1606234839109" duration="421000" />
-      <workItem from="1607783924758" duration="823000" />
-    </task>
-    <task id="LOCAL-00037" summary="update courses">
-      <created>1600422211720</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1600422211720</updated>
+      <workItem from="1607783924758" duration="855000" />
     </task>
     <task id="LOCAL-00038" summary="updated email">
       <created>1600433837534</created>
@@ -479,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606235249748</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="update index.html">
+      <created>1607784815481</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1607784815481</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +495,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new CV" />
     <MESSAGE value="make media page public" />
     <MESSAGE value="udpate email address" />
     <MESSAGE value="update projects.html" />
@@ -523,7 +519,8 @@
     <MESSAGE value="add pics to media.html" />
     <MESSAGE value="add radio img" />
     <MESSAGE value="correct projects.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="correct projects.html" />
+    <MESSAGE value="update index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="update index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2434" y="95" width="881" height="922" key="CommitChangelistDialog2" timestamp="1600727047688">
@@ -535,8 +532,8 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2229" y="202" key="DiffContextDialog/1920.0.1920.1080/0.30.1920.1050@1920.0.1920.1080" timestamp="1600646001094" />
-    <state x="-1365" y="287" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1606235253758">
-      <screen x="-1920" y="23" width="1920" height="978" />
+    <state x="518" y="300" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1607784820786">
+      <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1605912464614" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606145219681" />
@@ -544,6 +541,7 @@
     <state x="-1365" y="308" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1606187414264" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.978/0.23.1792.1097@-1920.23.1920.978" timestamp="1606235253758" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1606180437891" />
+    <state x="518" y="300" key="Vcs.Push.Dialog.v2/-1920.63.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1607784820786" />
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1604430043687" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606097071562" />
     <state x="518" y="296" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1603468045354" />
