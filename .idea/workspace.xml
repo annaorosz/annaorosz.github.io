@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update CV">
-      <change afterPath="$PROJECT_DIR$/js/pdfobject.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,14 +136,7 @@
       <workItem from="1606234839109" duration="421000" />
       <workItem from="1607783924758" duration="855000" />
       <workItem from="1608068963495" duration="173000" />
-      <workItem from="1609371504440" duration="5185000" />
-    </task>
-    <task id="LOCAL-00039" summary="new cv">
-      <created>1600627695974</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1600627695974</updated>
+      <workItem from="1609371504440" duration="5377000" />
     </task>
     <task id="LOCAL-00040" summary="new cv">
       <created>1600630391286</created>
@@ -485,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608068999428</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="add pdf viewers">
+      <created>1609423625796</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1609423625797</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +500,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="udpate email address" />
     <MESSAGE value="update projects.html" />
     <MESSAGE value="fix width on media.html" />
     <MESSAGE value="restructure on media.html" />
@@ -529,7 +524,8 @@
     <MESSAGE value="correct projects.html" />
     <MESSAGE value="update index.html" />
     <MESSAGE value="update CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="update CV" />
+    <MESSAGE value="add pdf viewers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pdf viewers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1786" y="508" width="1871" height="778" key="DiffContextDialog" timestamp="1609373500765">
