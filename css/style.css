@@ -1536,6 +1536,7 @@ main {
   border-radius: 30px;
   color: #076c80;
   border: 2px solid #076c80;
+  cursor: pointer;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 

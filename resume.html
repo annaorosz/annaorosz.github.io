@@ -75,15 +75,35 @@
                         appropriate teams
                         <br>• Researched methods to automatically classify errors in Mercedes-Benz vehicles from 1
                         millon+ data points
-
                         <br>• Worked on future of automotive world and develop next generation of self-driving
                         Mercedes-Benz automobiles
-                        <br>• <a href="Reference_Anna_Orosz.pdf" target="_blank">Letter of recommendation</a> written by
-                        my mananger, Lead Artificial
-                        Intelligence, <a href="https://www.linkedin.com/in/christoph-lingenfelder-720698/" target="_blank">Christoph
-                            Lingenfelder</a>
+
+
+
+
+<!--                        <br>• <a href="javascript:void(0)" id="opener"><strong>Letter of recommendation</strong></a>-->
+<!--                        written by my mananger, Lead Artificial Intelligence, <a-->
+<!--                                href="https://www.linkedin.com/in/christoph-lingenfelder-720698/"-->
+<!--                                target="_blank">Christoph Lingenfelder</a>-->
+<!--                    <div id="reference" style="overflow: hidden">-->
+<!--                        <embed src="Reference_Anna_Orosz.pdf" frameborder="0" width="100%" height="900px">-->
+<!--                    </div>-->
+
+
+
 
                 </li>
+                <button type="button" class="collapsible">
+                    <div id="textbox">
+                        <h6 class="alignleft" style="margin:0px;">Letter of Recommendation</h6>
+                        <p class="alignright"><span class="fa fa-angle-down"></span></p>
+                    </div>
+                </button>
+                <div class="content">
+                    <div id="ref"></div>
+                </div>
+                <br>
+                <br>
                 <li>
                     <h3>Machine Learning Intern @&nbsp;<a href="https://www.logmein.com/" target="_blank"> <img
                             alt="hi" class="inline" height="30" src="logos/logmein.png" width="100"/></a></h3>
@@ -126,7 +146,8 @@
                         <br> • Operated with multi-tenancy, network utilization, scheduling, cross-dc connection-pooling
                         in C++
                         <br>• For further details, check out
-                        <a href="https://www.seattletimes.com/business/technology/facebooks-invisible-seattle-team-wrangles-the-digital-deluge/" target="_blank">
+                        <a href="https://www.seattletimes.com/business/technology/facebooks-invisible-seattle-team-wrangles-the-digital-deluge/"
+                           target="_blank">
                             this article</a> about the essential work my team was doing at Facebook!
                     </p>
                 </li>
@@ -147,11 +168,24 @@
             </ul>
         </div>
 
-        <p><strong>
-            <button class="button" onclick=" window.open('AnnaOROSZ_CV.pdf','_blank')" target="_blank">View my CV
-            </button>
-        </strong>
-        </p>
+<!--        <p>-->
+<!--            <button class="button" id="openerCV">View my CV-->
+<!--            </button>-->
+<!--        <div id="pdfCVDialog" style="overflow: hidden">-->
+<!--            <embed src="AnnaOROSZ_CV.pdf" frameborder="0" width="100%" height="900px">-->
+<!--        </div>-->
+<!--        </p>-->
+
+        <button type="button" class="collapsible">
+            <div id="textbox">
+                <h6 class="alignleft" style="margin:0px;">Curriculum Vitae</h6>
+                <p class="alignright"><span class="fa fa-angle-down"></span></p>
+            </div>
+        </button>
+        <div class="content">
+            <div id="resume"></div>
+        </div>
+
 
 
     </main>
@@ -185,6 +219,80 @@
 <script src="js/jquery.waypoints.min.js"></script>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/main.js"></script>
+
+
+
+<script src='js/pdfobject.js'></script>
+<script>
+    var options = {
+        fallbackLink: '<p>This browser does not support inline PDFs. Please download the CV to view it: <a href="http://anna.orosz.pro/AnnaOROSZ_CV.pdf">Download CV</a></p>'
+    };
+
+    PDFObject.embed("http://anna.orosz.pro/AnnaOROSZ_CV.pdf","#resume");
+</script>
+
+<script>
+    var options = {
+        fallbackLink: '<p>This browser does not support inline PDFs. Please download the CV to view it: <a href="http://anna.orosz.pro/AnnaOROSZ_CV.pdf">Download CV</a></p>'
+    };
+
+    PDFObject.embed("http://anna.orosz.pro/Reference_Anna_Orosz.pdf","#ref");
+</script>
+
+<style>
+    .pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
+</style>
+
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script>
+    $(function () {
+        $("#pdfCVDialog").dialog({
+            width: 1200,
+            height: 980,
+            autoOpen: false,
+            resizable: false,
+            draggable: false,
+            closeOnEscape: true,
+        });
+        $("#openerCV").on("click", function () {
+            $("#pdfCVDialog").dialog("open");
+        });
+    });
+</script>
+
+<script>
+    $(function () {
+        $("#reference").dialog({
+            width: 1200,
+            height: 980,
+            autoOpen: false,
+            resizable: false,
+            draggable: false,
+            closeOnEscape: true,
+        });
+        $("#opener").on("click", function () {
+            $("#reference").dialog("open");
+        });
+    });
+</script>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            } else {
+                content.style.maxHeight = "2000px";
+            }
+        });
+    }
+</script>
 
 </body>
 </html>
