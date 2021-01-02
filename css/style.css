@@ -1623,22 +1623,23 @@ tr.bottom-spacing-table-row {
 }
 
 .collapsible {
-  background-color: #DCDCDC;
-  color: black;
+  background-color: #ffffff;
+  color: #808080;
+  font-size: 15px;
   cursor: pointer;
   width: 100%;
-  border: none;
+  border: 1px;
+  border-radius: 2px;
   text-align: left;
   vertical-align: middle;
   outline: none;
   padding: 10px 20px;
   transition-duration: 0.2s;
-  font-family: Trebuchet MS, Calibri Light,
 }
 
 .active, .collapsible:hover {
   background-color: #ffffff;
-  color: #999;
+  color: #808080;
 }
 
 .content {
