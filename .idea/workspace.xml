@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update CV">
+      <change afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -139,14 +144,10 @@
       <workItem from="1607783924758" duration="855000" />
       <workItem from="1608068963495" duration="173000" />
       <workItem from="1609371504440" duration="5404000" />
-      <workItem from="1609606111573" duration="4671000" />
-    </task>
-    <task id="LOCAL-00041" summary="new cv">
-      <created>1600633665660</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1600633665660</updated>
+      <workItem from="1609606111573" duration="5337000" />
+      <workItem from="1609861678574" duration="1521000" />
+      <workItem from="1609938025716" duration="1120000" />
+      <workItem from="1610057848949" duration="790000" />
     </task>
     <task id="LOCAL-00042" summary="improving linking">
       <created>1600645172989</created>
@@ -484,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609424088181</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="format education.html">
+      <created>1609619523408</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1609619523409</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +511,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix width on media.html" />
     <MESSAGE value="restructure on media.html" />
     <MESSAGE value="upload pics" />
     <MESSAGE value="add blank lines" />
@@ -528,7 +535,8 @@
     <MESSAGE value="update CV" />
     <MESSAGE value="add pdf viewers" />
     <MESSAGE value="add breaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="add breaks" />
+    <MESSAGE value="format education.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="format education.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1786" y="508" width="1871" height="778" key="DiffContextDialog" timestamp="1609373500765">
@@ -540,13 +548,14 @@
     </state>
     <state x="-1673" y="146" key="SettingsEditor/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609420895575" />
     <state x="-1673" y="137" key="SettingsEditor/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1609373135795" />
-    <state x="-1365" y="308" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1609424092424">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state x="518" y="299" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1609619537104">
+      <screen x="0" y="23" width="1792" height="1024" />
     </state>
     <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1605912464614" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606145219681" />
     <state x="-1365" y="307" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1022@-1920.23.1920.1057" timestamp="1605561481660" />
     <state x="-1365" y="308" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609424092424" />
+    <state x="518" y="299" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1609619537104" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.978/0.23.1792.1097@-1920.23.1920.978" timestamp="1606235253758" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1606180437891" />
     <state x="-1365" y="288" key="Vcs.Push.Dialog.v2/-1920.23.1920.982/0.23.1792.1097@-1920.23.1920.982" timestamp="1608069009400" />
