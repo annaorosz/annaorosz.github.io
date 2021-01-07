@@ -19,14 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update CV">
-      <change afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="add teaching.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lmi_me/IMG_3424.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/lmi_me/IMG_3424.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lmi_me/IMG_3660.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/lmi_me/IMG_3660.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,14 +146,7 @@
       <workItem from="1609606111573" duration="5337000" />
       <workItem from="1609861678574" duration="1521000" />
       <workItem from="1609938025716" duration="1120000" />
-      <workItem from="1610057848949" duration="790000" />
-    </task>
-    <task id="LOCAL-00042" summary="improving linking">
-      <created>1600645172989</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1600645172989</updated>
+      <workItem from="1610057848949" duration="1825000" />
     </task>
     <task id="LOCAL-00043" summary="improving linking">
       <created>1600645854626</created>
@@ -492,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609619523409</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="add teaching.html">
+      <created>1610061206168</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1610061206169</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +510,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="restructure on media.html" />
     <MESSAGE value="upload pics" />
     <MESSAGE value="add blank lines" />
     <MESSAGE value="better media.html" />
@@ -536,7 +534,8 @@
     <MESSAGE value="add pdf viewers" />
     <MESSAGE value="add breaks" />
     <MESSAGE value="format education.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="format education.html" />
+    <MESSAGE value="add teaching.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add teaching.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1786" y="508" width="1871" height="778" key="DiffContextDialog" timestamp="1609373500765">
@@ -548,8 +547,8 @@
     </state>
     <state x="-1673" y="146" key="SettingsEditor/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609420895575" />
     <state x="-1673" y="137" key="SettingsEditor/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1609373135795" />
-    <state x="518" y="299" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1609619537104">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state x="518" y="298" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1610061211115">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1605912464614" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606145219681" />
@@ -561,6 +560,7 @@
     <state x="-1365" y="288" key="Vcs.Push.Dialog.v2/-1920.23.1920.982/0.23.1792.1097@-1920.23.1920.982" timestamp="1608069009400" />
     <state x="518" y="300" key="Vcs.Push.Dialog.v2/-1920.63.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1607784820786" />
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/0.23.1792.1020@0.23.1792.1020" timestamp="1604430043687" />
+    <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1610061211115" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606097071562" />
     <state x="518" y="296" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1603468045354" />
     <state x="518" y="297" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1605491166333" />
