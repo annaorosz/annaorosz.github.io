@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="add pics to teaching.html">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="correct teaching.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,14 +151,8 @@
       <workItem from="1610063502074" duration="359000" />
       <workItem from="1610108305561" duration="488000" />
       <workItem from="1610285214514" duration="1208000" />
-      <workItem from="1610294793196" duration="431000" />
-    </task>
-    <task id="LOCAL-00052" summary="added links for locations">
-      <created>1603468039847</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1603468039847</updated>
+      <workItem from="1610294793196" duration="466000" />
+      <workItem from="1610295522798" duration="143000" />
     </task>
     <task id="LOCAL-00053" summary="new CV">
       <created>1604429955274</created>
@@ -496,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610286439166</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="correct teaching.html">
+      <created>1610295270735</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1610295270735</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update media page" />
     <MESSAGE value="added letter of recommendation" />
     <MESSAGE value="added workspace.xml" />
     <MESSAGE value="updated projects.html" />
@@ -541,7 +541,8 @@
     <MESSAGE value="add pointer to CV button" />
     <MESSAGE value="add links to teaching.html" />
     <MESSAGE value="add pics to teaching.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pics to teaching.html" />
+    <MESSAGE value="correct teaching.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct teaching.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1786" y="508" width="1871" height="778" key="DiffContextDialog" timestamp="1609373500765">
@@ -553,8 +554,8 @@
     </state>
     <state x="-1673" y="146" key="SettingsEditor/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609420895575" />
     <state x="-1673" y="137" key="SettingsEditor/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1609373135795" />
-    <state x="-1365" y="291" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1610286443492">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="-1365" y="287" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1610295280102">
+      <screen x="-1920" y="23" width="1920" height="980" />
     </state>
     <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1610286443492" />
     <state x="518" y="302" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1606145219681" />
@@ -562,7 +563,7 @@
     <state x="-1365" y="308" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609424092424" />
     <state x="518" y="299" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1609619537104" />
     <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.978/0.23.1792.1097@-1920.23.1920.978" timestamp="1606235253758" />
-    <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1610108774456" />
+    <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1610295280102" />
     <state x="-1365" y="288" key="Vcs.Push.Dialog.v2/-1920.23.1920.982/0.23.1792.1097@-1920.23.1920.982" timestamp="1608069009400" />
     <state x="518" y="300" key="Vcs.Push.Dialog.v2/-1920.63.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1607784820786" />
     <state x="518" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1610063900161" />
