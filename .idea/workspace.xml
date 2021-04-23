@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update research.html page">
-      <change afterPath="$PROJECT_DIR$/img/Picture 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/anna.orosz.pro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/in.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,14 +161,7 @@
       <workItem from="1612534395133" duration="4544000" />
       <workItem from="1612549432715" duration="105000" />
       <workItem from="1616550373677" duration="1826000" />
-      <workItem from="1619142963518" duration="532000" />
-    </task>
-    <task id="LOCAL-00060" summary="restructure on media.html">
-      <created>1605834541966</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1605834541967</updated>
+      <workItem from="1619142963518" duration="915000" />
     </task>
     <task id="LOCAL-00061" summary="upload pics">
       <created>1605834557864</created>
@@ -509,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616550785540</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="add linkedin internship">
+      <created>1619149625274</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1619149625274</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add links" />
     <MESSAGE value="media.html" />
     <MESSAGE value="add pics to media.html" />
     <MESSAGE value="add radio img" />
@@ -554,29 +550,15 @@
     <MESSAGE value="update research.html page" />
     <MESSAGE value="change color of menu" />
     <MESSAGE value="update phone" />
-    <option name="LAST_COMMIT_MESSAGE" value="update phone" />
+    <MESSAGE value="add linkedin internship" />
+    <option name="LAST_COMMIT_MESSAGE" value="add linkedin internship" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1786" y="508" width="1871" height="778" key="DiffContextDialog" timestamp="1609373500765">
-      <screen x="-1920" y="23" width="1920" height="980" />
-    </state>
-    <state x="-1786" y="508" width="1871" height="778" key="DiffContextDialog/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1609373500765" />
-    <state x="-1673" y="146" key="SettingsEditor" timestamp="1609420895575">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state x="-1673" y="146" key="SettingsEditor/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609420895575" />
-    <state x="-1673" y="137" key="SettingsEditor/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1609373135795" />
-    <state x="518" y="298" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1616550792834">
+    <state x="518" y="298" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1619149629683">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state x="-1365" y="291" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1610286443492" />
     <state x="518" y="299" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1022@0.23.1792.1022" timestamp="1612549530684" />
-    <state x="-1365" y="308" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1609424092424" />
-    <state x="518" y="299" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1609619537104" />
     <state x="-1365" y="308" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1026@-1920.23.1920.1057" timestamp="1611681294404" />
-    <state x="-1365" y="287" key="Vcs.Push.Dialog.v2/-1920.23.1920.980/0.23.1792.1097@-1920.23.1920.980" timestamp="1610295723195" />
-    <state x="-1365" y="288" key="Vcs.Push.Dialog.v2/-1920.23.1920.982/0.23.1792.1097@-1920.23.1920.982" timestamp="1608069009400" />
-    <state x="518" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1610063900161" />
-    <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1616550792834" />
+    <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1619149629683" />
   </component>
 </project>
