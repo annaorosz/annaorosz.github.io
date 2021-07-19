@@ -71,8 +71,12 @@
                             href="https://www.google.com/maps/place/Empire+State+Building/@40.7484405,-73.9856644,15z/data=!4m2!3m1!1s0x0:0xd134e199a405a163?sa=X&ved=2ahUKEwi8vsKYupPwAhVSUt8KHWQNAJcQ_BIwMHoECFUQBQ"
                             target="_blank"> New York, New York</a></p>
                     <p>• <b>Machine Learning and Artificial Intelligence Engineer Intern</b>
-                        <br>• Incoming member of the Standardization Team
-
+                        <br>• Build company embedding space for LinkedIn’s ~20 million organizations
+                        <br>• Execute data preprocessing in Scala with Apache Spark to create directed weighted graph
+                        with ~100 million edges
+                        <br>• Train word2vec (gensim) and GNN (graphSAGE) models to produce company embeddings in 50-d
+                        using TensorFlow
+                        <br>• Use objective (e.g. logistic regression) and subjective (Appen) evaluation on embeddings
 
 
                 </li>
@@ -94,8 +98,6 @@
                         Mercedes-Benz automobiles
 
 
-
-
                         <br>• <a href="javascript:void(0)" id="opener"><strong>Letter of recommendation</strong></a>
                         written by my mananger, Lead Artificial Intelligence, <a
                                 href="https://www.linkedin.com/in/christoph-lingenfelder-720698/"
@@ -105,18 +107,16 @@
                     </div>
 
 
-
-
                 </li>
-<!--                <button type="button" class="collapsible">-->
-<!--                    <div id="textbox">-->
-<!--                        <h6 class="alignleft" style="margin:0px;">Letter of Recommendation</h6>-->
-<!--                        <p class="alignright"><span class="fa fa-angle-down"></span></p>-->
-<!--                    </div>-->
-<!--                </button>-->
-<!--                <div class="content">-->
-<!--                    <div id="ref"></div>-->
-<!--                </div>-->
+                <!--                <button type="button" class="collapsible">-->
+                <!--                    <div id="textbox">-->
+                <!--                        <h6 class="alignleft" style="margin:0px;">Letter of Recommendation</h6>-->
+                <!--                        <p class="alignright"><span class="fa fa-angle-down"></span></p>-->
+                <!--                    </div>-->
+                <!--                </button>-->
+                <!--                <div class="content">-->
+                <!--                    <div id="ref"></div>-->
+                <!--                </div>-->
 
                 <li>
                     <h3>Machine Learning Intern @&nbsp;<a href="https://www.logmein.com/" target="_blank"> <img
@@ -190,17 +190,17 @@
         </div>
         </p>
 
-<!--        <button type="button" class="collapsible">-->
-<!--            <div id="textbox">-->
-<!--                <h6 class="alignleft" style="margin:0px;">Curriculum Vitae</h6>-->
-<!--                <p class="alignright"><span class="fa fa-angle-down"></span></p>-->
-<!--            </div>-->
-<!--        </button>-->
-<!--        <div class="content">-->
-<!--            <div id="resume"></div>-->
-<!--        </div>-->
+        <!--        <button type="button" class="collapsible">-->
+        <!--            <div id="textbox">-->
+        <!--                <h6 class="alignleft" style="margin:0px;">Curriculum Vitae</h6>-->
+        <!--                <p class="alignright"><span class="fa fa-angle-down"></span></p>-->
+        <!--            </div>-->
+        <!--        </button>-->
+        <!--        <div class="content">-->
+        <!--            <div id="resume"></div>-->
+        <!--        </div>-->
 
-<br>
+        <br>
         <br>
         <br>
         <br>
@@ -237,14 +237,13 @@
 <script src="js/main.js"></script>
 
 
-
 <script src='js/pdfobject.js'></script>
 <script>
     var options = {
         fallbackLink: '<p>This browser does not support inline PDFs. Please download the CV to view it: <a href="http://anna.orosz.pro/AnnaOROSZ_CV.pdf">Download CV</a></p>'
     };
 
-    PDFObject.embed("http://anna.orosz.pro/AnnaOROSZ_CV.pdf","#resume");
+    PDFObject.embed("http://anna.orosz.pro/AnnaOROSZ_CV.pdf", "#resume");
 </script>
 
 <script>
@@ -252,11 +251,14 @@
         fallbackLink: '<p>This browser does not support inline PDFs. Please download the CV to view it: <a href="http://anna.orosz.pro/AnnaOROSZ_CV.pdf">Download CV</a></p>'
     };
 
-    PDFObject.embed("http://anna.orosz.pro/Reference_Anna_Orosz.pdf","#ref");
+    PDFObject.embed("http://anna.orosz.pro/Reference_Anna_Orosz.pdf", "#ref");
 </script>
 
 <style>
-    .pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
+    .pdfobject-container {
+        height: 30rem;
+        border: 1rem solid rgba(0, 0, 0, .1);
+    }
 </style>
 
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
