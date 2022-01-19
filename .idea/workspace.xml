@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update CV">
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,21 +167,9 @@
       <workItem from="1620146987009" duration="61000" />
       <workItem from="1620229044918" duration="449000" />
       <workItem from="1626660416726" duration="107000" />
-      <workItem from="1626724109620" duration="62000" />
-    </task>
-    <task id="LOCAL-00067" summary="add current pages">
-      <created>1605912459566</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1605912459566</updated>
-    </task>
-    <task id="LOCAL-00068" summary="new media page">
-      <created>1605914576810</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1605914576810</updated>
+      <workItem from="1626724109620" duration="434000" />
+      <workItem from="1627013543657" duration="136000" />
+      <workItem from="1642617218548" duration="284000" />
     </task>
     <task id="LOCAL-00069" summary="update media page">
       <created>1605916590945</created>
@@ -511,7 +500,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626660452665</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="update CV">
+      <created>1626724192370</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1626724192370</updated>
+    </task>
+    <task id="LOCAL-00117" summary="update index">
+      <created>1626724432025</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1626724432025</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +534,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update index.html" />
     <MESSAGE value="add pdf viewers" />
     <MESSAGE value="add breaks" />
     <MESSAGE value="format education.html" />
@@ -556,14 +558,15 @@
     <MESSAGE value="update education.html page" />
     <MESSAGE value="piazza and canvas" />
     <MESSAGE value="update CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="update CV" />
+    <MESSAGE value="update index" />
+    <option name="LAST_COMMIT_MESSAGE" value="update index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="301" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1626660518599">
+    <state x="518" y="301" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1626724438503">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="-1365" y="307" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1619751841658" />
-    <state x="518" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1626660518599" />
+    <state x="518" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1626724438503" />
     <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1619150022450" />
     <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1619799370038" />
   </component>
