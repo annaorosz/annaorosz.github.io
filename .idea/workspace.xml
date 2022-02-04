@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnnaOROSZ_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/AnnaOROSZ_CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,14 +169,10 @@
       <workItem from="1626660416726" duration="107000" />
       <workItem from="1626724109620" duration="434000" />
       <workItem from="1627013543657" duration="136000" />
-      <workItem from="1642617218548" duration="284000" />
-    </task>
-    <task id="LOCAL-00069" summary="update media page">
-      <created>1605916590945</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1605916590945</updated>
+      <workItem from="1642617218548" duration="492000" />
+      <workItem from="1642621824354" duration="101000" />
+      <workItem from="1642689381862" duration="115000" />
+      <workItem from="1643800857744" duration="300000" />
     </task>
     <task id="LOCAL-00070" summary="update media page">
       <created>1606093998261</created>
@@ -514,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626724432025</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="update index">
+      <created>1642617586126</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1642617586126</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,12 +565,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="update index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="301" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1626724438503">
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1642617589315">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="-1365" y="307" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1792.1024@-1920.23.1920.1057" timestamp="1619751841658" />
-    <state x="518" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1626724438503" />
-    <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1619150022450" />
-    <state x="518" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1619799370038" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1642617589315" />
   </component>
 </project>
