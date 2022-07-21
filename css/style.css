@@ -61,6 +61,11 @@ h1 {
   font-family:  Abadi, Ubuntu, Trebuchet MS, Calibri Light, Arial, sans-serif;
 }
 
+h11 {
+  color: #808080;
+  font-family:  "Courier New", Courier, sans-serif;
+}
+
 .btn, .form-control {
   outline: none;
   -webkit-box-shadow: none !important;
