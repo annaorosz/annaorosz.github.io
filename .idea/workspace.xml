@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update with graduation, LinkedIn FTE">
-      <change afterPath="$PROJECT_DIR$/new_ao.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thesis.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnnaOROSZ_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/AnnaOROSZ_CV.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,14 +172,7 @@
       <workItem from="1642689381862" duration="115000" />
       <workItem from="1643800857744" duration="300000" />
       <workItem from="1643963885239" duration="25000" />
-      <workItem from="1658360658619" duration="2930000" />
-    </task>
-    <task id="LOCAL-00072" summary="update media page">
-      <created>1606097064848</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1606097064848</updated>
+      <workItem from="1658360658619" duration="3208000" />
     </task>
     <task id="LOCAL-00073" summary="added letter of recommendation">
       <created>1606142348218</created>
@@ -526,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658366881477</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="update with graduation, LinkedIn FTE">
+      <created>1658535274333</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1658535274333</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,10 +565,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update with graduation, LinkedIn FTE" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1658366886480">
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1658535284491">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1658366886480" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1658535284491" />
     <state x="597" y="193" width="597" height="735" key="find.popup" timestamp="1658535041970">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
