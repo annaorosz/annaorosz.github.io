@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <script src="js/slideshow.js"></script>
-    <LINK HREF="./ao.ico" REL="SHORTCUT ICON">
+    <LINK HREF="./new_ao.ico" REL="SHORTCUT ICON">
     <title>Anna's Research Experience</title>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
@@ -145,13 +145,20 @@
                             href="https://www.seas.upenn.edu/~cgreenbe/" target="_blank">Clayton Greenberg</a>.
                     </p>
                 </li>
-                <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFB3N-DISoMXITlELRlsabDk9mmJZenmBr8v6qhFyZC_taUnOuqq_xXTPGV880vWdbfZkV2KqAP2PV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             </ul>
         </div>
+        <p>
+            <button class="button" id="openerCV">View my Thesis
+            </button>
+        <div id="pdfCVDialog" style="overflow: hidden">
+            <embed src="thesis.pdf" frameborder="0" width="100%" height="900px">
+        </div>
+        </p>
+        <br>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFB3N-DISoMXITlELRlsabDk9mmJZenmBr8v6qhFyZC_taUnOuqq_xXTPGV880vWdbfZkV2KqAP2PV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
     </main>
 </div>
-
 
 <!-- loader -->
 <div class="show fullscreen" id="loader">
@@ -181,6 +188,82 @@
 <script src="js/jquery.waypoints.min.js"></script>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/main.js"></script>
+
+
+<script src='js/pdfobject.js'></script>
+<script>
+    var options = {
+        fallbackLink: '<p>This browser does not support inline PDFs. Please download the CV to view it: <a href="http://anna.orosz.pro/AnnaOROSZ_CV.pdf">Download CV</a></p>'
+    };
+
+    PDFObject.embed("http://anna.orosz.pro/AnnaOROSZ_CV.pdf", "#resume");
+</script>
+
+<script>
+    var options = {
+        fallbackLink: '<p>This browser does not support inline PDFs. Please download the CV to view it: <a href="http://anna.orosz.pro/AnnaOROSZ_CV.pdf">Download CV</a></p>'
+    };
+
+    PDFObject.embed("http://anna.orosz.pro/Reference_Anna_Orosz.pdf", "#ref");
+</script>
+
+<style>
+    .pdfobject-container {
+        height: 30rem;
+        border: 1rem solid rgba(0, 0, 0, .1);
+    }
+</style>
+
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script>
+    $(function () {
+        $("#pdfCVDialog").dialog({
+            width: 1200,
+            height: 980,
+            autoOpen: false,
+            resizable: false,
+            draggable: false,
+            closeOnEscape: true,
+        });
+        $("#openerCV").on("click", function () {
+            $("#pdfCVDialog").dialog("open");
+        });
+    });
+</script>
+
+<script>
+    $(function () {
+        $("#reference").dialog({
+            width: 1200,
+            height: 980,
+            autoOpen: false,
+            resizable: false,
+            draggable: false,
+            closeOnEscape: true,
+        });
+        $("#opener").on("click", function () {
+            $("#reference").dialog("open");
+        });
+    });
+</script>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            } else {
+                content.style.maxHeight = "2000px";
+            }
+        });
+    }
+</script>
 
 </body>
 </html>

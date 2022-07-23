@@ -19,18 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update index">
-      <change afterPath="$PROJECT_DIR$/img/li.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/penn_eng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/penn_eng2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/penngrad.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/penngrad2.JPG" afterDir="false" />
+    <list default="true" id="6b89c9ad-5da1-49b4-a82d-90249b7d8cb6" name="Default" comment="update with graduation, LinkedIn FTE">
+      <change afterPath="$PROJECT_DIR$/new_ao.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thesis.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,14 +181,7 @@
       <workItem from="1642689381862" duration="115000" />
       <workItem from="1643800857744" duration="300000" />
       <workItem from="1643963885239" duration="25000" />
-      <workItem from="1658360658619" duration="2191000" />
-    </task>
-    <task id="LOCAL-00071" summary="update media page">
-      <created>1606096327838</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1606096327838</updated>
+      <workItem from="1658360658619" duration="2930000" />
     </task>
     <task id="LOCAL-00072" summary="update media page">
       <created>1606097064848</created>
@@ -527,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643963900363</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="update with graduation, LinkedIn FTE">
+      <created>1658366881476</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1658366881477</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add pdf viewers" />
     <MESSAGE value="add breaks" />
     <MESSAGE value="format education.html" />
     <MESSAGE value="add pictures" />
@@ -572,12 +570,17 @@
     <MESSAGE value="piazza and canvas" />
     <MESSAGE value="update CV" />
     <MESSAGE value="update index" />
-    <option name="LAST_COMMIT_MESSAGE" value="update index" />
+    <MESSAGE value="update with graduation, LinkedIn FTE" />
+    <option name="LAST_COMMIT_MESSAGE" value="update with graduation, LinkedIn FTE" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1643963904650">
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1658366886480">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1643963904650" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1658366886480" />
+    <state x="597" y="193" width="597" height="735" key="find.popup" timestamp="1658535041970">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="193" width="597" height="735" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1658535041970" />
   </component>
 </project>
